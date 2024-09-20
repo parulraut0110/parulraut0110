@@ -18,7 +18,7 @@
 <a href="https://instagram.com/fall_autumn_0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fall_autumn_0110" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@PARULSURESHRAUT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@parulsureshraut" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kind_valley_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kind_valley_21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@parulraut0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@parulraut0110" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/parulraut0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@parulraut0110" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/parulrak5rt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parulrak5rt" height="30" width="40" /></a>
 </p>
 
