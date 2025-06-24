@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **parulraut0110@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1BX-G_ZXL2sqSHCZSSRsWMVGaxOI3Me5x](https://drive.google.com/drive/folders/1BX-G_ZXL2sqSHCZSSRsWMVGaxOI3Me5x)
+- <!--📄 Know about my experiences [https://drive.google.com/drive/folders/1BX-G_ZXL2sqSHCZSSRsWMVGaxOI3Me5x](https://drive.google.com/drive/folders/1BX-G_ZXL2sqSHCZSSRsWMVGaxOI3Me5x)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
