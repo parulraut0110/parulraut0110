@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parul Raut</h1>
 <h3 align="center">Passionate and skilled Java developer with extensive experience in Java Enterprise Edition (Java EE) and Java Standard Edition (Java SE 8).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parulraut0110&label=Profile%20views&color=0e75b6&style=flat" alt="parulraut0110" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parulraut0110&label=Profile%20views+2000&color=0e75b6&style=flat" alt="parulraut0110" /> </p>
 
 - 🔭 I’m currently working on [BrowserExtensionStore](https://github.com/parulraut0110/BrowserExtnStore-Version-2-)
 
