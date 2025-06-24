@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parulraut0110&label=Profile%20views&color=0e75b6&style=flat" alt="parulraut0110" /> </p>
 
-- 🔭 I’m currently working on [BrowserExtensionStore](https://github.com/parulraut0110/BrowserExtnStore-Version-2-)
+- 🔭 I’m currently working on [FaceRecognition](https://github.com/parulraut0110/FaceRecognition/blob/main/README.md)
 
 - 🌱 I’m currently learning **Spring, Java EE**
 
