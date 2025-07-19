@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on [FaceRecognition](https://github.com/parulraut0110/FaceRecognition/blob/main/README.md)
 
 - 🌱 I’m currently learning **Spring, Java EE**
+  
 
 - 📫 How to reach me **parulraut0110@gmail.com**
 
